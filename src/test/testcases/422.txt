@@ -1,0 +1,7 @@
+Class Program {
+                        main(){
+                                Return;
+                            }
+                    }
+            Class A: B{}
+            

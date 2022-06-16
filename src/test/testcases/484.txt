@@ -1,0 +1,7 @@
+Class Program {
+            main() {
+                Val a: Int = 5;
+                Val b: Int = 0;
+                a = b;
+            }
+        }

@@ -1,0 +1,9 @@
+Class Program {
+                        main(){
+                            Var x : Float = 12.423;
+                            Foreach(x In 5 .. 2){
+                                Continue;
+                            }
+                            Return;
+                        }
+                    }

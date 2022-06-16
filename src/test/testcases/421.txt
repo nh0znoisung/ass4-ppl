@@ -1,0 +1,9 @@
+Class Program {
+                        main(){
+                                Return;
+                            }
+                    }
+            Class B{}
+            Class A{}
+            Class A: B{}
+            

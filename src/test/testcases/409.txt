@@ -1,0 +1,16 @@
+Class Program {
+                main(){
+                    Val x : Int = 124%31/21;
+                    If(True){
+                        Foreach(x In 2 .. 5 By 1){
+                            Return;
+                        }
+                        Foreach(x In 2 .. 5 By 1){
+                            Foreach(y In 2 .. 5 By 1){
+                                Break;
+                            }
+                        }
+                    }
+                    Return;
+                }
+            }

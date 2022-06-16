@@ -1,0 +1,17 @@
+Class Program {
+                main(){
+                    Var x,y,z: Float;
+                    If(True){
+                        Foreach(x In 2 .. 5 By 1){
+                            Foreach(y In 2 .. 5 By 1){
+                                Foreach(z In 2 .. 5 By 1){
+                                    Foreach(z In 2 .. 5 By 1){
+                                        Continue;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    Return;
+                }
+            }

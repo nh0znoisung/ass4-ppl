@@ -1,0 +1,15 @@
+Class IO {
+            $getInt() { Return 1; }
+            $putIntLn(a: Int) {}
+            $putFloatLn(a: Float) {}
+        }
+        Class Program{
+            main() {
+                IO::$putFloatLn(1345123);
+                IO::$putFloatLn(123512131);
+                IO::$putIntLn(1212145);
+                IO::$putFloatLn(512e-1);
+                IO::$putFloatLn(7634.343132);
+                IO::$putIntLn(5.3);
+            }
+        }

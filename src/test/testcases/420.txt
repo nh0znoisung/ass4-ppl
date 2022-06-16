@@ -1,0 +1,9 @@
+Class Program {
+                        main(){
+                                Return;
+                            }
+                    }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            Class Shape{}
+            

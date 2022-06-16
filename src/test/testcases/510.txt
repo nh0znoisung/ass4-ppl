@@ -1,0 +1,12 @@
+
+        Class Shape{
+            abc(a: Float){
+                Return 2;
+            }
+        }
+        Class Program {
+            main(){
+                io.writeInt(1+2);
+            }
+        }
+        

@@ -1,0 +1,9 @@
+Class Program{
+            main() {
+                Var i: Boolean;
+                Var j: Int;
+                i = j == j;
+                i = j;
+                j = i;
+            }
+        }

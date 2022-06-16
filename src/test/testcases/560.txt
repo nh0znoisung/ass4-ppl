@@ -1,0 +1,14 @@
+
+        Class B{}
+            Class A: B{
+                Val a: Int = 12;
+                $a(a: String){Return a;}
+            }  
+        Class Program {
+            main(){
+                Var a: Float = 1.0 * 2.0 - 1.0;
+                Val b: Float = 1* 8 +(-12) * 12 + 1 + 1 - (1);
+                io.writeFloat(a + b * a);
+            }
+        }
+        

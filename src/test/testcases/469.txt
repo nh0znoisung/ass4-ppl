@@ -1,0 +1,11 @@
+Class Program{
+            main() {
+                Var i: Boolean;
+                Var j: Int;
+                Val k: Float = 2.1;
+                i = j == j;
+                i = j >= k;
+                i = (j <= k) && (j < k) || (j > k);
+                j = i;
+            }
+        }

@@ -1,0 +1,6 @@
+Class Program {
+            main() {
+                Val idx: Int = 1/2*42-1213+-12-(12+34--12);
+                idx = idx + 1;
+            }
+        }

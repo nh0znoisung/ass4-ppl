@@ -1,0 +1,8 @@
+Class Program{
+            main() {
+                Var i: Float;
+                Var j: Int;
+                i = j;
+                j = i + j;
+            }
+        }

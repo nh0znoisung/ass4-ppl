@@ -1,0 +1,6 @@
+Class Program{
+            main() {
+                Var i: Float;
+                Foreach(i In 1 .. 10 By 100) {}
+            }
+        }

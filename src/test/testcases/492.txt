@@ -1,0 +1,10 @@
+Class io {
+            $getInt() { Return 21345; }
+            $putIntLn(a: Int) {}
+            $putFloatLn(a: Float) {}
+        }
+        Class Program {
+            main() {
+                io::$putIntLn();
+            }
+        }

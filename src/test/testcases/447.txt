@@ -1,0 +1,20 @@
+
+            Class Shape{}
+            Class Rectangle: Shape{
+                Var $a,$b,$c: Int = 5/31+43,6,6+23;
+                Val d: Float = 12;
+            }    
+            Class Program {
+                Var a: Array[Array[Float, 2], 3] = Array(
+                    Array(1.1, 2.2),
+                    Array(3.3, 4.4-21.1/3.7),
+                    Array(3.3, 4.4-21.1/3.7)
+                );
+                main(){    
+                    Self.a[Rectangle::$c][Rectangle::$b] = New Rectangle().d;
+                    
+                    Return;
+                }
+            }
+            
+            

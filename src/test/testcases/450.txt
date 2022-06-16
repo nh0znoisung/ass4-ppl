@@ -1,0 +1,11 @@
+
+            Class Program{
+                Constructor(a,c,edf: Int; b: Float){
+                    Return;
+                }
+                Destructor(){}
+                main(){    
+                    Return;
+                }
+            }
+            

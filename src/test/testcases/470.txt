@@ -1,0 +1,9 @@
+Class Program{
+            main() {
+                Var i: Array[Int, 3] = Array(0,1,2);
+                Var j: Array[Float, 3] = Array(0.0,1.1,1.2);
+                j = i;
+                Var b: Boolean;
+                b = i;
+            }
+        }

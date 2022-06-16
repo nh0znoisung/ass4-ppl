@@ -1,0 +1,8 @@
+Class Test {
+            Var $attri: Float;
+        }
+        Class Program {
+            main() {
+                Var a: Int = Test::$attri;
+            }
+        }

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([ConstDecl(Id(myVar),IntType,IntLit(5)),AssignStmt(Id(myVar),IntLit(10))]))])])

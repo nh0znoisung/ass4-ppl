@@ -1,0 +1,7 @@
+Class Program {
+            Val $constant: Int = 10;
+
+            main() {
+                Program::$constant = 10;
+            }
+        }

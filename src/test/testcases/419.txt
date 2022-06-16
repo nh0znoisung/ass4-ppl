@@ -1,0 +1,20 @@
+Class Program {
+                Var a, $b: Float;
+                Val c,d,e: Int = 1,5,6;
+
+                main(){
+                    Return;
+                }
+
+                calc(a,c: Int; b,d: Float){
+                    Var m,n: Float;
+                    Return;
+                }
+                $getArea(e,b: String){
+                    Val x,a,c: Boolean;
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

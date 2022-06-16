@@ -1,0 +1,8 @@
+Class Program {
+            main() {
+                Val inc: Int = 1/2*42-1213+-12-(12+34--12);
+                Var a : Float;
+                Val idx: Float = a + inc;
+                
+            }
+        }

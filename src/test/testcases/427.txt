@@ -1,0 +1,11 @@
+Class Program {
+                Val a, $a: Float = 1.34, 124.e-2;
+                Val b: Int = 1 + Program::$a;
+                Var a: Boolean;
+                main(){
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

@@ -1,0 +1,8 @@
+
+        Class A {}
+        Class B:A {}
+        Class C:B {}
+        Class Program {
+            main(){}
+        }
+        

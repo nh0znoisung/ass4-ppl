@@ -1,0 +1,9 @@
+
+            Class Program{
+                Val a : Int = 1*2;
+                Val $a : Int = 1/2;
+                main(){    
+                    Return;
+                }
+            }
+            

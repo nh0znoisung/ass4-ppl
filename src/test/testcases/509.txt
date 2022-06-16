@@ -1,0 +1,19 @@
+
+        Class Shape{
+            abc(a: Float){
+                Return a;
+            }
+            cde(c: String){
+                Return;
+            }
+            sdd(d: Boolean){
+                Return d;
+            }
+        }
+        Class Program {
+            main(){
+                Val a : Int = 12;
+                io.writeInt(a);
+            }
+        }
+        

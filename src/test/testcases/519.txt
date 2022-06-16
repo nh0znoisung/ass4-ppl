@@ -1,0 +1,14 @@
+
+        Class B{}
+            Class A: B{
+                Val a: Int = 12;
+                $a(a: String){Return a;}
+            }  
+        Class Program {
+            main(){
+                Val a: Boolean = False;
+                Var b: Boolean = False;
+                io.putBool(a || b);
+            }
+        }
+        

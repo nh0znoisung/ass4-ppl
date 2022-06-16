@@ -1,0 +1,13 @@
+
+        Class B{}
+            Class A: B{
+                Val a: Int = 12;
+                $a(a: String){Return a;}
+            }  
+        Class Program {
+            main(){
+                Var a,b,c,d: Int = 1 + 2 * 3, (1 +2) * 3, 1 + 2, 1 + 2;
+                io.writeBool(a > b);
+            }
+        }
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([Return()])),AttributeDecl(Instance,VarDecl(Id(myVar),StringType,StringLit(Hello World))),AttributeDecl(Instance,VarDecl(Id(myVar),IntType))])])

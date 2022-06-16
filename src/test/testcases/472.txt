@@ -1,0 +1,6 @@
+Class Program{
+            main() {
+                Val s: Float = 0;
+                s.to_string();
+            }
+        }

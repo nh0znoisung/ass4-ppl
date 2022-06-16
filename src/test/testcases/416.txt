@@ -1,0 +1,8 @@
+Class Program {
+                main1(){
+                    Return;
+                }
+                main(a,b,c: Int; d,e: Float; f: String){
+                    Return;
+                }
+            }

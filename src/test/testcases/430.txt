@@ -1,0 +1,12 @@
+Class Program {
+            main() {
+                Var idx: Int;
+                Foreach(idx In 1 .. 10) {
+                    Var newIdx: Int;
+                    Foreach(newIdx In 1 .. 10) {
+                        Continue;
+                    }
+                }
+                Break;
+            }
+        }

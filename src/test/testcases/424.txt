@@ -1,0 +1,9 @@
+Class Program {
+                Var a, $a: Float;
+                main(){
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

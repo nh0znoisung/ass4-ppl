@@ -1,0 +1,11 @@
+Class Program {
+                Val a, $a: Int = 3*2+1-21/3, 124-32-122;
+                Val b: Int = 1 + Program::$a;
+                Var a: Boolean;
+                main(){
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

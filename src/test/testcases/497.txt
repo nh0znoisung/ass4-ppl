@@ -1,0 +1,15 @@
+
+            Class B{}
+            Class A: B{
+                Val a: Int = 12;
+                $a(){Return;}
+            }    
+            Class Program {                
+                main(){    
+                    Var a: A = New A();
+                    A::$a();
+                    Var b: Int = A.a;
+                }
+            }
+            
+            

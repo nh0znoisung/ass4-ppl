@@ -1,0 +1,7 @@
+
+        Class Program {
+            main(){
+                io.writeInt(1);
+            }
+        }
+        

@@ -1,0 +1,8 @@
+
+        Class Program {
+            main(){
+                Var a: Int = 12;
+                io.writeInt(a);
+            }
+        }
+        

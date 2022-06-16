@@ -1,0 +1,16 @@
+Class Program {
+                Var a, $b: Float;
+                Val c,d,e: Int = 1,5,6;
+
+                main(){
+                    Return;
+                }
+
+                calc(a,c: Int; b,d: Float){
+                    Var m,n: Float;
+                    Return 12;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

@@ -1,0 +1,15 @@
+Class Program {
+                Var a: Array[Array[Float, 2], 3] = Array(
+                    Array(1.1, 2.2),
+                    Array(3.3, 4.4-21.1/3.7),
+                    Array(3.3, 4.4-21.1/3.7)
+                );
+                Var aaaaaa: Array[Boolean, 3] = Array(True, False, True);
+                main(){    
+                    Self.aaaaaa[101] = 4;
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

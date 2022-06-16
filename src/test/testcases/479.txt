@@ -1,0 +1,5 @@
+Class Program {
+            main() {
+                Val idx: Int = 1.2;
+            }
+        }

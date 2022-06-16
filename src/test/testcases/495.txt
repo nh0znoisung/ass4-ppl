@@ -1,0 +1,23 @@
+
+            Class Shape{}
+            Class Rectangle: Shape{
+                Constructor(x, y: Boolean; z: Float){}
+                Var $b,$c: Int = 6,6+23;
+                Val d: Float = 12;
+                $a(){Return 5/31+43.0;}
+                $b(){Return 5/31+43;}
+                d(){Return 5/31+43;}
+            }    
+            Class Program {
+
+                ##Null ....##
+                Var x: Rectangle;
+                Var y: Rectangle = Null;
+                Var z: Rectangle = New Rectangle();
+                main(){    
+                    Program::$a = Self.x;
+                    Program::$a = Array(Self.y, Self.x);
+                }
+            }
+            
+            

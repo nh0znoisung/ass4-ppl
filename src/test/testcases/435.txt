@@ -1,0 +1,10 @@
+Class Program {
+                main(){
+                    Var a: Array[Int, 3] = Array(1,2,3);
+                    a[1][2] = 4;
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            

@@ -1,0 +1,25 @@
+Class Program {
+                        main(){
+                            Var x: Int;
+                            Foreach(x In 5 .. 2 By 12){
+                                {
+                                    {
+                                        {
+                                            
+                                        }
+                                        {
+                                            Break;
+                                        }
+                                    }
+                                    If("Hello" ==. "World"){
+                                        Break;
+                                        {
+                                            Continue;
+                                        }
+                                    }
+                                }
+                                Continue;
+                            }
+                            Return;
+                        }
+                    }

@@ -1,0 +1,9 @@
+Class Program {
+            ## Test about For + Assign ##
+            main() {
+                Val idx: Int = 5;
+                Foreach(idx In 1 .. 10) {
+                    
+                }
+            }
+        }

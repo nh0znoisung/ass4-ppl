@@ -1,0 +1,15 @@
+
+            Class Program{
+                Val a, $a: Float = 12, 1e-3;
+                a(){
+                    Return;
+                }
+                $a(){
+                    Return;
+                }
+                main(){    
+                    Return;
+                }
+                Val a: Boolean = True;
+            }
+            

@@ -1,0 +1,15 @@
+Class Program {
+                Var a: Array[Array[Float, 2], 3] = Array(
+                    Array(1.1, 2.2),
+                    Array(3.3, 4.4-21.1/3.7),
+                    Array(3.3, 4.4-21.1/3.7)
+                );
+                Val aaaaaa: String = "Hello World, my name is Quach Minh Tuan. Glad to see you";
+                main(){    
+                    Self.aaaaaa[101] = 4;
+                    Return;
+                }
+            }
+            Class Shape{}
+            Class Reactangle: Shape{}
+            
